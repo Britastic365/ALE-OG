@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f34fc9a-ef76-4e36-be15-e1096cdc11c9" name="Changes" comment="2/15/2026 untouched gallery1">
+    <list default="true" id="5f34fc9a-ef76-4e36-be15-e1096cdc11c9" name="Changes" comment="updated gallery-search to connect summary checkbox with summary search">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,7 +74,7 @@
       <option name="presentableId" value="Default" />
       <updated>1771214685877</updated>
       <workItem from="1771214687701" duration="2444000" />
-      <workItem from="1771217781673" duration="4582000" />
+      <workItem from="1771217781673" duration="6533000" />
     </task>
     <task id="LOCAL-00001" summary="initial upload">
       <option name="closed" value="true" />
@@ -116,7 +116,15 @@
       <option name="project" value="LOCAL" />
       <updated>1771222702779</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="updated gallery-search to connect summary checkbox with summary search">
+      <option name="closed" value="true" />
+      <created>1771223912466</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1771223912466</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -128,6 +136,7 @@
     <MESSAGE value="initial upload" />
     <MESSAGE value="2/15/2026 untouched gallery" />
     <MESSAGE value="2/15/2026 untouched gallery1" />
-    <option name="LAST_COMMIT_MESSAGE" value="2/15/2026 untouched gallery1" />
+    <MESSAGE value="updated gallery-search to connect summary checkbox with summary search" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated gallery-search to connect summary checkbox with summary search" />
   </component>
 </project>
