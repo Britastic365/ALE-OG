@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Fear is humanity's greatest enemy. The Cyberman can free us from it. </p><p>The Cybermen.... The great civilisation we could have been...if we'd taken another path. A purer path. The Scorpius strategy is now in full operation. </p><p>There will be victory in Orion.... </p><p>Written and directed by Nicholas Briggs.</p>"; 

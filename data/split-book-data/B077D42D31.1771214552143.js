@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Sage and Marlow are reunited in the second book of the Nursery Rhyme Suspense series. When Sage's dreams merge with Marlow's they know something other than their past partnership is connecting them. </p> <p>When the drowning dreams start to come true, Sage wonders if she can prevent her own death, because someone is definitely out to get her. </p>"; 

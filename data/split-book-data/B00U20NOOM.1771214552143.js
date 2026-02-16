@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>When the body of a woman is found in rural Buffalo Springs, forensic investigator Ramsey Clark is called in. Ramsey believes in evidence, not superstition. But when another murder rocks the town, Ramsey begins to wonder if a killer is playing on everyone's fears - or a prophecy is being fulfilled.</p>"; 

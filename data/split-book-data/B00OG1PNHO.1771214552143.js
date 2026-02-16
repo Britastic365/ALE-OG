@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Amaliya Vezorak always believed she was destined to live a failed life in obscurity until she was brutally murdered by an ancient vampire named The Summoner and reborn as a powerful vampire necromancer. Now it is up to her to save the world. </p>"; 

@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Life as a seer is not all it’s cracked up to be. Especially when you’re unemployed and your former boss blacklists you everywhere.</p> <p>Or when a legendary Russian witch calls in a favor owed, demanding the unthinkable.</p> <p>When danger threatens everyone around me, there’s only one man I can turn to - and he may not be what he seems.</p>"; 

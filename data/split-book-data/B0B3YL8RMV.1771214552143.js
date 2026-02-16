@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Queen Rolfe betrayed me.</p> <p>My own mother.</p> <p>The Teeth have my wife, and I can't allow myself to think about what they're doing to her. I need to raise an army to get her back, and if I can't, I'll march in there and do it myself.</p>"; 

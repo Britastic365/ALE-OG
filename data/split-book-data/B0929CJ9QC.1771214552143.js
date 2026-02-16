@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>The biggest rivalry in Sunrise, Montana is the feud between the ranch families of the Rykers and the Wildes. And it’s only grown stronger over the years. <br> So what happens when a Wilde and a Ryker wake up in Vegas, in the same bed, hungover, and...married? </p> <p>Sutton Wilde and Sera Ryker are in for one <i>Wild Ride</i>.</p>"; 

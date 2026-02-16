@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "The national bestselling Black Jewels trilogy established award-winning Anne Bishop as an author whose \"sublime skill...blends the darkly macabre with spine-tingling emotional intensity, mesmerizing magic, lush sensuality, and exciting action.\"* Now the saga continues-with four all-new adventures of Jaenelle and her kindred."; 

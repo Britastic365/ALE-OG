@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Carson Quinn, a down-on-his-luck former science teacher spends his days pensively drinking in dive bars until a chance encounter with an old friend sends him on new adventures rekindling a love for cryptozoology and an introduction into the world of craft beer. Will this adventure send him in a new direction or put him out of his misery?</p>"; 

@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>A cougar shifter meets his mate and match in this latest sexy paranormal adventure in the A.L.F.A. series by the <i>New York Times</i> best-selling author of <i>Elemental Mating</i>, as another Alpha League Federal Agent finds love and passion in the midst of danger. </p>"; 

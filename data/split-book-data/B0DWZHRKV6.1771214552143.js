@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p><b>Kaylina must dodge assassins and kidnappers while revelations about her past, and power she never knew she had, stun her to the core.</b></p> <p>She has the support of Lord Vlerion, the ranger she's developed feelings for, but he has problems of his own, and an insidious plot threatens to take him from her forever.</p>"; 

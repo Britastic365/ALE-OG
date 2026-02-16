@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>My deal with Nero and my growing powers are supposed to keep me and my loved ones safe - yet the unthinkable happens. </p> <p>When lines are crossed and blood is spilled, nothing will ever be the same again.</p>"; 

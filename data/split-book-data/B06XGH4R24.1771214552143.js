@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Recipe for drunken laughter: </p> <p>Take two best friends since childhood; </p> <p>Add four shots of tequila each; </p> <p>Sprinkle in a handful of secrets; </p> <p>Shake. </p> <p>Given the right amount of <i>Tequila &amp; Time</i>, even the deepest secrets between two friends will rise to the surface. </p>"; 

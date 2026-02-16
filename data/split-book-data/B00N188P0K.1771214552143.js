@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>What do you get when you combine a chicken named Elvis, a locked diary, and a secret Violet Parker does not want share with her daughter? </p> <p><i>Seeing Trouble</i> is the first of many short stories involving the characters of the Deadwood Mystery series. </p>"; 

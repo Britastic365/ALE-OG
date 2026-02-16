@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p><b>There’s no stopping these monsters.</b></p> <p>There’s nothing worse than the ruler of Hell without wings. Unless it’s the ruler of Hell without Sparrow. Meg’s trying to get her footing in her own realm, while planning an escape to locate Sparrow. What starts as a simple rescue mission turns into disaster.</p>"; 

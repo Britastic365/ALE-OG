@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>One bed.</p> <p>Forty-eight hours.</p> <p>Irresistible attraction.</p> <p>Unadulterated passion.</p> <p>Jasir’s the second in command—a guard from the strongest monarchy in East Africa.</p> <p>Amara was the only one to make him bend to her will in this Royals of Kera Asnela spin-off.</p>"; 

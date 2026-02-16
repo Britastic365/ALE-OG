@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Bianca is moving fast through the ranks. Maybe too fast.</p> <p>Her body is changing, and she fears what she might become. The power that courses through her veins is sweet and tempting.</p> <p><b>Immerse yourself in Vampire Court, an addicting fantasy series by </b><b><i>USA Today</i></b><b> best-selling author Ingrid Seymour!</b></p>"; 

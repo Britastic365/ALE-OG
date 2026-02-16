@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Ye screw with this lass, ye get put on yer ass.</p> <p>Meet Fionna mac Cumhaill, an urban druid coming into her powers and trying to master them.</p> <p>She has a family she didn't know about, a magical heritage laying its claim, and a mystery she apparently needs to solve.</p>"; 

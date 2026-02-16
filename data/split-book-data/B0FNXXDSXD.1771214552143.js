@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Melody's sins have come to haunt her. As she works to find her place in the elven court, she is discovered by a group of assassins who know how she failed her kingdom. They hunt a bloody revenge. The Empire does not rest and looms threatening to the south, bringing more danger to the young queen and the new family she worked so hard to get.</p>"; 

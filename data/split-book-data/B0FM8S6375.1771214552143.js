@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p><b>Four years into their mating, Alpha Henry and Luna Regina still have no heir.</b></p> <p>The pack Elders keep pressuring the Alpha to take an unmated pack female to breed, and he eventually gives in, breaking his Luna's heart in the process.</p> <p>The OW, of course, has her own agenda in all of this.</p>"; 

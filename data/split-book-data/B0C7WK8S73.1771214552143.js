@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p><i>All Inn Thyme</i> is a complete standalone that can be listened to without having heard any of the other books, but if you prefer to listen in order, start with <i>Falling Inn Love, </i>as the characters and families are connected.</p>"; 

@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Fenella has led the life of a nomad, wandering the world, relying solely on herself, and encountering hardships that left deep emotional scars. Now, safe in the immortals' village, she uncovers an unexpected connection and a hidden talent that may inspire her to finally put down roots.</p>"; 

@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p><b>One protector. Five kings. And one destiny none of them could get away from.</b></p> <p>This collection contains all three books in the Full-Blood series: <i>Protector</i>, <i>Saviour</i>, and <i>Queen</i>. If you like magic, witches, and a badass woman who doesn't stop to save those she loves, then this is the series you want to pick up!</p>"; 

@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "In <i>Dangerous Tides</i>, Dr. Libby Drake uses her incredible healing powers to help mend the emotionally scarred Ty Derrick. But their burgeoning relationship is threatened by a mysterious man who wants to use Libby's talents for his own dark purposes."; 

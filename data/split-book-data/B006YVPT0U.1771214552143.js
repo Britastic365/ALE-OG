@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Hot on the heels of Kissing Sin, Riley Jenson-half-vampire, half-werewolf-returns in her most dangerous mission yet: facing the chilling evil behind the secret cloning lab.</p>"; 

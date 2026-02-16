@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Everything is on the line is this epic conclusion. Dean and his team climb the Minotaur's Maze to new heights in a last ditch effort to fix all that is wrong with the universe. Will they fail or prevail?</p>"; 

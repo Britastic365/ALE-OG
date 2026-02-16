@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>It was not supposed to end like this.</p> <p>We were supposed to be together forever, but our world erupted into chaos instead.</p> <p>I’ll fight until the very end, but will it be enough?</p>"; 

@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Find my long-lost birth parents? Check. </p> <p>Kiss the man I've been crushing on for years? Check. </p> <p>Finally kick back and enjoy my happy ending? Yeah, no such luck. </p> <p>With literal demons out to kill me and my loved ones in trouble, I'm starting to wonder if I'll make it out of this one alive....</p>"; 

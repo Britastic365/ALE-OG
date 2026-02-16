@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>After being killed by demons, former angel Adam wakes up without a memory. When he is taken in by his enemies, they do everything they can to make him one of their own. But, there is one thing they keep forgetting: Part of Adam’s soul lives on in Claire. And, it is calling for him….</p> <p><b>Join Adam’s journey through the darkness.</b></p>"; 

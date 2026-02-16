@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>It's time for Peppa and George to go to bed, but they aren't sleepy at all! Mummy and Daddy Pig must tell them a bedtime story about the adventures of a character named Georgie Pig, and then another story about Peppa the Pirate!</p>"; 

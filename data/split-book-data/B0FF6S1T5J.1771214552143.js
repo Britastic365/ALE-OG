@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Thomas Pink was just an average guy until an incident at the gym changed his life in ways he could not have imagined. When Thomas unexpectedly meets Dominic, he is offered a job which is out of this world. Will he have the courage to accept, and will the new powers given to him be enough to conquer the dark side of life?</p>"; 

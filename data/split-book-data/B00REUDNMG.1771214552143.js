@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Another shockingly suspenseful installment in #1 <i>New York Times</i> best-selling author Karen Marie Moning's Fever series. </p> <p><i>Burned</i> picks up right where the surprising conclusion of <i>Iced</i> left off, and will feature beloved characters Mac and Dani O'Malley as they embark on another high-octane adventure in the Fever world.</p>"; 

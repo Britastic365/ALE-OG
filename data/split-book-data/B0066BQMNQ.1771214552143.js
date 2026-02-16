@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Welcome to a world of chivalry and honor, of danger and desire, of legend, and of love…. These four original novellas bring to life all the romance and adventure of the Middle Ages, with the common thread of a rich medieval tapestry woven through each tale by an acclaimed master of historical romance…. </p>"; 

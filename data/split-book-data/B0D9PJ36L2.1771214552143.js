@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Humor and heart collide when two fake dates accidentally ruin a wedding and must play matchmaker to fix it, perfect for fans of Christina Lauren and Tessa Bailey.</p> <p>Contains mature themes.</p>"; 

@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>\"You may call me Tenzin, if you like.\" A girl. A mother. A slave. A monster. A survivor. Descended into madness. Forged in fire and darkness, she became one of the fiercest warriors the immortal world had ever known. But in the beginning, there was a girl.</p>"; 

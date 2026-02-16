@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Brundar is fighting a losing battle. Calypso is slowly chipping away his icy armor from the outside, while his need for her is melting it from the inside.</p> <p>He can't allow it to happen. Calypso is a human with none of the Dormant indicators. There is no way he can keep her for more than a few weeks.</p>"; 

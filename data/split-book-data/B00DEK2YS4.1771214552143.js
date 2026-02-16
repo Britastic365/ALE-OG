@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<b>In this paranormal story from the <i>Deep Kiss of Winter </i>anthology, #1 <i>New York Times </i>bestselling author Kresley Cole delivers a breathtaking tale about a brutal vampire soldier who experiences love for the first time.</b>"; 

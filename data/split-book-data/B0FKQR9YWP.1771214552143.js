@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Zachary has the shield of God. Anastasia wants it. Need I say more?</p> <p>Immortal werewolf meets … well, whatever Anastasia is, head on. It’s about to get brutal.</p>"; 

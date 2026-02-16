@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Mysterious aliens...ruthless terrorists...androids with attitude...genetic manipulation...punch-ups with lasers...giant spaceships...what more do you want? A collection by the author of <i>Gridlinked, The Skinner, In the Line of Polity, Cowl, Brass Man,</i> and <i>The Voyage of the Sable Keech.</i></p>"; 

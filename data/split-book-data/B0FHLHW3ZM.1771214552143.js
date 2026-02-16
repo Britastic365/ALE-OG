@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Lives changed forever... Threats far deadlier</p> <p>Elyse, Sebastian, and Kiana lives are thrown into chaos with the revelations and truths that they must face. Shifterkind will never be the same. The five thrones could all end now.</p>"; 

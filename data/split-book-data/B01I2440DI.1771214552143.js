@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Enter the dark realm of Nocturna, where blisteringly sexy Rafael dominates the demons of a lawless dimension and tries to help a beautiful young woman avenge her cousin's disappearance. </p>"; 

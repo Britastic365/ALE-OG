@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Imagine if you will, an alternate reality...where women rose to dominate men, and survive by feeding off them, sexually. Jonathan Parker, a mild mannered normal guy, is about to take a fantastic journey to this place, where his every desire, and his worst nightmares, will collide.</p>"; 

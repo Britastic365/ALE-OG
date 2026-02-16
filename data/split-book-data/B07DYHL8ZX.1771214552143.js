@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>This is the sequel to <i>Heartless</i>. </p> <p>Cade wants a second chance, but Lexie doesn't want to get burned again. Her attraction to him is just as strong as ever, and he knows it. He'll use every dirty trick in the book to win, but Lexie has learned how to play his game, too. </p> <p>This audiobook is not intended for younger teens.</p>"; 

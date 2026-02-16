@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>The balance between good and evil is impossible to maintain when neither exist anymore . . .</p> <p>We've been fed lies all of our lives, so now it's up to me and the rest of my team to uncover the truth.</p> <p>But while my heart is pulling me in one direction, my mind and my duty to the world are tugging me in the opposite.</p>"; 

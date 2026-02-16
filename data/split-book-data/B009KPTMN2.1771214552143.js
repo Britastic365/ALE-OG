@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "Two brothers.<br>One a top FBI agent.<br>The other a brilliant, twisted criminal.<br><br>An undying hatred between them.<br><br>Now, a perfect crime.<br><br>And the ultimate challenge:<br>Stop me if you can...<br>"; 

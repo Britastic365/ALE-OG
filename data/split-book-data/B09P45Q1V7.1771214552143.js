@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>A funny, angsty, inspired-by-true-a-story novella about first love, first relationship, and all the other...firsts.</p> <p>What happens when your first love is doomed and has an expiration date?</p> <p>Find out with Lana.</p>"; 

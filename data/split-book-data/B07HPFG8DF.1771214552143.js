@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>How deep do the levels of the underworld go? When Helena was alive she had often wondered if she'd be the one to dig her own grave. Now she's on her way to hell to save someone she loves and praying she'll be able to dig her way back out.</p>"; 

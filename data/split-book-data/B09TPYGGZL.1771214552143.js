@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>The new romantic thriller set in the deadly yet beautiful Sierra Nevada mountains by number one <i>New York Times</i> best-selling author Christine Feehan. </p> <p>Quiet and serene, Sunrise Lake is the perfect place for travelers and vacationers to get away. But with dangers both natural and man-made in the surroundings, no one is safe.</p>"; 

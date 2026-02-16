@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "A small Kansas town has turned into a killing ground.<br>Is it a serial killer, a man with the need to destroy?<br>Or is it a darker force, a curse upon the land?<br>Amid golden cornfields, FBI Special Agent Pendergast discovers evil in the blood of America's heartland.<br>No one is safe."; 

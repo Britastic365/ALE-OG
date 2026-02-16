@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>The long anticipated finale to the Wings Trilogy.</p> <p>\"Good or bad is not who you are, it’s who you choose to be.\"</p> <p>In the final showdown of the Wings trilogy, Claire has to choose between temptation and destiny, and has to learn that there is more to her family history than she could have ever imagined....</p>"; 

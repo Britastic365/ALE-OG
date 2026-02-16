@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>King Arthur was destined to annihilate dragons from the world - until he was reborn as one. The fae told her killing him was the only way to save the world. They lied.</p>"; 

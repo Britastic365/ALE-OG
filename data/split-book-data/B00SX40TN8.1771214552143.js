@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Be spontaneous, they say. That's how I ended up on the back of a stranger's bike. A sexy, tall, tattooed stranger, but a stranger nonetheless. How was I to know that a chance meeting with this man, Xander Kane, was going to change my life?</p>"; 

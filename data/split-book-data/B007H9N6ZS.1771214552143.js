@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>When a disabled spaceship enters Earth's atmosphere, seven members of the advanced Tosok race are welcomed by the world. Then a popular scientist is murdered, and all evidence points to one of the Tosoks. Now, an alien is tried in a court of law -and there may be far more at stake than accounting for one human life.</p>"; 

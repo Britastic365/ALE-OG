@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>It always happens when you least suspect it. Love. The chemistry. The pull. Even when you don’t want it to. Timing - it’s a bitch.</p> <p>And then you have to make a choice. Do you regret what is, or what isn’t? Because when love’s involved, there’s always regret. And my story is no exception.</p>"; 

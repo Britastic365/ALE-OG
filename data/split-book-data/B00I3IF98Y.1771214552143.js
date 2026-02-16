@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Jack, Kirii, and Fade are industrial spies hired to steal a genome. But when they board the Seastead <i>Long</i>, even these experienced operatives aren't prepared for what they find.</p> <p>This story was first published in <i>METAtropolis: Green Space,</i> the third entry in Audible's original series.</p>"; 

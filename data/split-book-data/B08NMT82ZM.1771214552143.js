@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>I've restored my soul, but now I'm trapped in the Citadel, separated from Ali. Worse, she believes I've betrayed her. And she's desperate to kill me. Even as I work to save her, a great reckoning between the tribes of Elves threatens to ruin my plans. And if I don't solve this, Ali and I will both end up in Hel.</p>"; 

@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "Broke and unemployed, \"Jumper\" Sirantha Jax accepts a diplomatic mission for the government only to find herself up against Syndicate criminals, man-eating aliens, and her own grim, space-weakened body."; 

@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>The Deity and Her Disciple is the prequel in The Shadows of Desire Series: A Dark Romance Collection.<br> <br> The adults around them warped their childhood. A young Wesley is forced to keep Scarlet safe, even if that means keeping secrets from the ones he loves the most.</p>"; 

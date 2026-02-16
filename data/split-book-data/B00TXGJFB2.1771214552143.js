@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>With a serial rapist loose on the streets of Savannah, hotshot detective Ryne Robel needs answers, not the psychobabble head games of forensic profiler Abbie Phillips. Abbie must convince him that head games are exactly what this elusive suspect is all about. </p>"; 

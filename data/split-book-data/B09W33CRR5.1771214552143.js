@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Demi is a force, but Greyson is the enforcer. Together, the race is on to tame each other. Can they make this week one to be remembered or will outside forces ruin a good thing before it’s started? </p> <p>Find out in <i>As We Lay: Forbidden Lust Series, Book One</i>. </p> <p><b>This is a novelette.</b></p>"; 

@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Special Operations Officer Jason Thanou of the Temporal Regulatory Authority must once again plunge into Earth's blood-drenched past to combat the plots of the Transhumanist underground to subvert that past and create a secret history leading up to the fulfillment of their mad dream of transforming humanity into a race of gods and monsters.</p>"; 

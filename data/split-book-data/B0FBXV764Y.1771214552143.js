@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Return to Scotland and <i>New York Times</i> and <i>USA Today</i> bestselling author Donna Grant's Skye Druids, where magic and danger intertwine and a tale of passion, revelations, and new beginnings unfolds.<br> <br> Contains mature themes.</p>"; 

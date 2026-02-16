@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p><b><i>Smuggler Ship</i></b><b> is a prequel novella in the Sky Full of Stars universe....</b></p> <p>Find out how Jelena and Erick first acquired their freighter, the <i>Snapper</i>, in this fast-paced space adventure.</p>"; 

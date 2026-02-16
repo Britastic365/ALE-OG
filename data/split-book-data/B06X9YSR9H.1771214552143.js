@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Lailani is a human who longs for the love she cannot have. </p> <p>Somnus, the god of dreams, will never give his heart to another woman again after the death of his first love. </p> <p>Can their hearts be mended? Or will it be too late to heal the wounds that have scarred them both? </p>"; 

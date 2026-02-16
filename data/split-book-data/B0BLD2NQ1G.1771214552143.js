@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p><i>Queen of Whispers and Mist</i> is the second book in a brand-new trilogy set in the Chosen Universe. Fans of Sarah J. Maas and Jennifer L. Armentrout will adore this sizzling and addictive high fantasy romance.</p>"; 

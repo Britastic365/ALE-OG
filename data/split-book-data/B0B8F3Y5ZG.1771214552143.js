@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>From internationally bestselling author K. A. Tucker comes the thrilling conclusion to the dark and sexy Dirty Empire series.</p> <p>Mercy Wheeler and Gabriel Easton's sordid tale ends in Fallen Empire as Gabriel must save Mercy and escape his father's grip once and for all.</p> <p>Contains mature themes.</p>"; 

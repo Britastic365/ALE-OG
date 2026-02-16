@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Book One of The Sophie Stearns Adventures is set in a bustling company town, where the everyday is anything but ordinary. Sophie and the G-Man chronicles Sophie's accidental entry into a parallel dimension where she needs to solve the mystery of the device that transported her and the reason it exists in the first place.</p>"; 

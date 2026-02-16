@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p><i>No matter how I had tried to avoid it, there was no escaping what we had: The kind of love you went to war for.</i></p> <p><i>And that’s exactly what I intended to do.</i></p> <p><b><i>Obsidian Throne</i></b><b> is the fourth and final book in the Lochlann Feuds Series. Don't miss this stunning conclusion to Rowan's story!</b></p>"; 

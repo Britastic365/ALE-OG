@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p><b>When the tiniest slip can unleash the darkness, every choice matters.</b><br> <br> The taint is about to make her final play. I just wish she wasn't holding all the cards.<br> <br> <i>The thrilling finale to Wolves of Hawrthorne close is finally here.</i></p>"; 

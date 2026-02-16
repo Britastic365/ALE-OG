@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>I never thought I'd see him again.</p> <p>My first love, back from the grave.</p> <p>My captor and tormentor.</p> <p>He holds my past, present, and future in his scarred hands.</p> <p>He owns me.</p> <p>No matter how far I run, my path leads me back to that lonely castle.</p> <p>Back into the arms of the Beast.</p>"; 

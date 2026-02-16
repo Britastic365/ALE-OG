@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>The second novel in the addictive bestselling supernatural series begun with Dead Witch Walking.</p> <p>To save herself and her vampire roommate, former bounty hunter Rachel Morgan must confront six feet of sheer supernatural seduction—the vampire master—and dark secrets she’s hidden even from herself.</p>"; 

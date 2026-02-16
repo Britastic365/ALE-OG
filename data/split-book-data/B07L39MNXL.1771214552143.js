@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Jonas Quarrel has tracked Verity from Mexico to Northern California. Just what is he after? </p> <p>Verity Ames finds herself fighting an attraction to Jonas from the moment he knocks on the door of the No Bull Cafe. He seems far too good to be true. </p> <p>Together they will discover a shared passion and a shared danger.</p>"; 

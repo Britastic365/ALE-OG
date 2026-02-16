@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Katie MacAlister packs heat and humor into her best-selling Silver Dragons series. Here May Northcutt continues her quest to free herself from the clutches of the Demon Lord Magoth so she can take her rightful place beside Gabriel, the ruler of the Silver Dragons.</p>"; 

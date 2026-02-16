@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>This box set brings together all three brutally hot, shamefully sexy books of the<i> Wolf Kings </i>series. <br> <br> The set includes:</p> <ul> <li><i>Alpha King</i></li> <li><i>Alpha Boss</i></li> <li><i>Alpha Brute</i></li> </ul>"; 

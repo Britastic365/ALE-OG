@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>To escape becoming a ward of her unscrupulous uncle, Taylor Stapleton will wed Lucas Ross, a rugged American rancher. Taylor also has a secret...a precious legacy she hasn't revealed to Ross. However, as she begins to fall for her handsome new husband, Taylor dares to surrender her heart to an uncertain future.</p>"; 

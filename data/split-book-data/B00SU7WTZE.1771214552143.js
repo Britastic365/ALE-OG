@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>From <i>USA Today</i> best-selling authors comes the highly anticipated sequel to <i>The Thought Readers</i> </p> <p>What am I? </p> <p>Who killed my family? </p> <p>Why? </p> <p>I need to get some answers before the Russian mob succeeds in killing me. </p> <p>That is, if my own friends don't kill me first. </p>"; 

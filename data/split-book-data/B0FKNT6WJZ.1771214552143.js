@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>A war, then. A war of our own. A war for perfection and cleanliness and order.</p> <p>A war to end suffering.</p> <p>A war to end filth and disease.</p> <p>A war to end immorality and injustice.</p> <p>A war to end blasphemy.</p> <p>The last war this world would ever see.</p> <p>A war to end all.</p>"; 

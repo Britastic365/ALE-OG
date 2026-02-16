@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "In <i>Lover Enshrined</i>, a member of the Black Dagger Brotherhood must make a decision that could save - or spell doom for - his race of vampires. Phury knows his share of pain, but can the Primale of the Chosen experience love as well?"; 

@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "Intellectual Sophia Bennett knew what kind of man she wanted: a rugged cowboy. And in Texas they were everywhere! So why couldn't she take her eyes off brilliant professor Max Travers? He was a <i>Wizard</i> in mathematics who surely made love by the numbers. Yet every inch of him - no Stetson, no dusty boots - added up to dangerously sexy."; 

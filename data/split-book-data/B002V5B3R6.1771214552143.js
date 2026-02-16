@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<b>Passion and danger collide in this brand-new, eBook exclusive Lords of the Underworld adventure!</b> <p>Once, Atlas, the Titan god of Strength, was the Greek goddess Nike's slave. Now, he is her master. And soon these sworn enemies destined to destroy one another will be forced to risk everything for a chance at love.</p>"; 

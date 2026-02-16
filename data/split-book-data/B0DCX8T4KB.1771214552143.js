@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p><b>Who is Eberin Das?</b><br> <br> Decoding an ancient message that survived the destruction of Mars could be the key to avoiding the same fate for Earth in this action-packed sequel to <i>The Cold Light of Stars</i>.</p>"; 

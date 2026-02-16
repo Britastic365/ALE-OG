@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>A boxset collection of the first three books in the Chronicles of Kerrigan Prequel series! Fall in love with WJ May's international best-selling series. Learn how it all began...before the magic of tatùs. Christmas. </p> <p>This boxset includes <i>Christmas Before the Magic</i>, <i>Question the Darkness</i>, and <i>Into the Darkness</i>. </p>"; 

@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Eloping with the love of my life isn't as easy as finding an Elvis chapel on the Vegas strip. Demons from my wife's past come back to haunt us before the honeymoon can even start. We have to get through all the secrets and lies to get our happily ever after. </p> <p>Welcome to Paradise NV, home of the MorningStar MC.</p>"; 

@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>While the clan wages war against humanity's darkest elements, Morelle learns to navigate an unexpectedly complex Earth, explores unfamiliar feelings, and discovers powers that make her both invaluable and dangerous to her newfound family.</p>"; 

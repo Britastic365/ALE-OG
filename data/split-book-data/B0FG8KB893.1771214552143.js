@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Get ready for the explosive sequel to the “action-packed, electrifying fantasy” (Good Morning America) <i>The Last One</i> by <i>New York Times</i> bestselling author Rachel Howzell Hall!</p>"; 

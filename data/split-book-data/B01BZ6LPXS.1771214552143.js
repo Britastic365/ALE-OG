@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Survival is just the beginning...Having escaped the hospital, Tom must face a new enemy: himself. New questions arise as he travels through the white wasteland. Will he survive the remainder of The Great Storm? More importantly, does he want to? </p>"; 

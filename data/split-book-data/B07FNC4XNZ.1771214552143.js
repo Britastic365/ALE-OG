@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>I'm not a good man, and I've never pretended to be. I don't believe in goodness or God or any happy ending that isn't paid for in advance. </p> <p>What do I believe in? Money. Sex. Macallan 18. </p> <p>They have words for men like me - playboy. Womanizer. Skirt chaser. My brother used to be a priest, and he only has one word for me: sinner.</p>"; 

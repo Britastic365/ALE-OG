@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Poisonous girls whose kisses will kill. A fateful eating contest with the devil. Faeries who return to Ironside, searching for love. A junior prom turned bacchanalia. In twelve short stories, eerie and brimming with suspense and unexpected humor, Holly Black twists the fantastical creatures you thought you knew in ways you’ll never expect. </p>"; 

@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Held in the heart of Nightwich, the only person Clara thought she could trust has abandoned her. <br> <br> Finding an ally could mean the difference between life and death and Clara must learn who she can trust before it's too late—but the court is full of deception and everyone has a motive for betrayal. </p>"; 

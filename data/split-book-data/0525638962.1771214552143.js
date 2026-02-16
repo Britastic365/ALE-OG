@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "In the story, two young women centuries apart-one a troubled, magic-wielding queen; the other a bounty hunter serving a ruthless empire-must fight in a cosmic war that spans millennia, only to discover as their stories intersect that they have the power to save their world or doom it."; 

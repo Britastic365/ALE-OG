@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>A moan, a sigh, a hiss, a kiss, longing, loving, release, satisfaction - love deluxe.</p> <p>This is a brief collection of erotic scenes which also includes two short stories previously available for free online. If erotic content and short stories are not your cup of tea, then this experience is not for you.</p>"; 

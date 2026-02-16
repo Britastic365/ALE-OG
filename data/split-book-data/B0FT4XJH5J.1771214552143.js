@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>The war for the North continues, and as the Empire releases a new threat onto Alialis, Garik must seek new allies to prepare for the coming battle which will decide the outcome of mankind — yet help may come from beyond the veil of the Fug itself.</p>"; 

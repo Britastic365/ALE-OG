@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>For millennia men have strutted their pride over the fragile surface of the Earth, arrogantly proclaiming themselves masters of creation. But now their feeble investigations have disturbed the planet's original rulers far beneath the globe's crust. </p>"; 

@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p><i>New York Times</i> best-selling author Nalini Singh returns to the electric world of Guild Hunters, where passion meets peril. </p> <p>Archangel Titus and Sharine, the Hummingbird, must work together to fight off the reborn and track down a target that could cause the end of the Archangels. </p> <p><b>Contains mature themes.</b></p>"; 

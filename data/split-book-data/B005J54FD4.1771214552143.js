@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Dev Santos finds a woman with amnesia - and all she can remember is that she's dangerous. Stripped of her memories by a shadowy oppressor and programmed to kill, Katya's only hope is Dev. But he could very well be her next target.</p>"; 

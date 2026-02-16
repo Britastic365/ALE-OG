@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>A red-hot, suspenseful novel about a free-spirited dream researcher - and the gorgeous man who brings her dreams to life. </p> <p>When a dream researcher and a government agent meet, a waking nightmare begins. A suspicious hit-and-run leads them into a perilous web of passion, betrayal, and murder. </p>"; 

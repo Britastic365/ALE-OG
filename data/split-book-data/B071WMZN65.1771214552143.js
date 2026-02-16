@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Andrew and Nathalie's love flourishes, but the secrets they keep from each other taint their relationship with doubts and suspicions. In the meantime, Sebastian and his men are getting bolder, and the storm that's brewing will shift the balance of power in the millennia-old conflict between Annani's clan and its enemies. </p>"; 

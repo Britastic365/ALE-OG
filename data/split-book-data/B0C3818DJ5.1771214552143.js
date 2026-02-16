@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p><b>What was stolen …</b></p> <p>When my world was ripped out from under me,</p> <p>I craved solitude so that I could heal.</p> <p>It became a habit until I saw her.</p> <p>She might hate me,</p> <p>But that’s okay.</p> <p>She doesn’t know that she’s my obsession.</p> <p>And I’m the only one who can protect her,</p> <p><b>Because she’s mine.</b></p>"; 

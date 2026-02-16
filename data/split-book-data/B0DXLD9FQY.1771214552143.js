@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Book three in the Cursed Fae series: a full-length fantasy romance standalone. The Winter Court princess must find the next piece of the puzzle to end the curse ravaging her lands.</p>"; 

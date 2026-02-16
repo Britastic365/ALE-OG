@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>In the sixth decade of the 21st century, Earth has been transformed. Nanotechnology has been perfected, giving humans the ability to change their environment and themselves down to the cellular level. And the study of the mind has brought a revolution in human psychotherapy and artificial intelligence. It's a sane and perfect world. Almost.</p>"; 

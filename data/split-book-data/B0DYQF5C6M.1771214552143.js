@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p><b>A mysterious murder has been committed at a mythical and magical HBCU campus.</b></p> <p>Nobody knows who did it.</p> <p>School is covering it up in order to protect the students.</p> <p>Until it happens again...</p>"; 

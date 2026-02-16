@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>With Creed battling the darkness inside him and an injury the only person who can save him is his true mate—Amelia. But their trust is fragile, while their enemies are strong. It's a passionate, intense battle of good and evil, nowhere near over.</p> <p>Contains mature themes.</p>"; 

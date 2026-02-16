@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Series finale! The universe is on the brink of disaster, and the fate of the galaxy rests on Queenie and her Rejects.</p> <p>Too bad they're stuck in enemy territory light years from home.</p> <p>Too bad their ride was stolen.</p> <p>Too bad Satan is the one who took it.</p> <p>Too bad for the bad guys, that is.</p> <p>All rise for the queen!</p>"; 

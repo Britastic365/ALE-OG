@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>This box set brings together all three ruthlessly hot, savagely sexy books of <i>The Alpha Brotherhood </i>series. <br> <br> The set includes:</p> <ul> <li><i>Savage</i></li> <li><i>Primal</i></li> <li><i>Rough</i></li> <li><i>Wild</i></li> <li><i>Enigma</i></li> </ul>"; 

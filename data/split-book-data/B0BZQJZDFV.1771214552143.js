@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p><b>If life on the border was complicated, life on Capitoline is insane.</b></p> <p>Nora and Liam struggle to reconcile her abilities and his duty, while caught up in the dangerous games of the powerful.</p> <p>Political intrigue, family drama, and ancient alien technology combine in the fourth novel of the Human Sector.</p>"; 

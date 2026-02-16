@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "A scientific experiment begins, and as the button is pressed, the unexpected occurs: everyone in the world goes to sleep for a few moments while everyone's consciousness is catapulted more than 20 years into the future. At the end of those moments, when the world reawakens, all human life is transformed by foreknowledge."; 

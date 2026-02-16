@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Waverly has avoided Lukas for the last few years but all of that changes when it comes to her best friend's wedding. She's the Maid of Honor, he's a groomsman... and her best friend's brother.</p>"; 

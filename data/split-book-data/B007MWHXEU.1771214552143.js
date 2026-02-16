@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "Tohrment, the Brother who had it all, but lost everything to the enemy, is destined for a second chance at love and life. But will the past and his bitterness hold him back?"; 

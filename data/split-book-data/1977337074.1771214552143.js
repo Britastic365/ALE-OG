@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Torn apart from her mates, Red must discover the truth about her powers before a ruthless enemy conquers not only her, but all inhabitants of Crimson Hollow. </p> <p>Contains mature themes.</p>"; 

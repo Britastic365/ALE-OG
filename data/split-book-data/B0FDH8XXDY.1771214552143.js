@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>A weary Elven veteran finds himself banished to the far end of the world, and even then, still manages to find trouble.</p> <p>Pariah's Moon is a westernpunk fantasy.</p>"; 

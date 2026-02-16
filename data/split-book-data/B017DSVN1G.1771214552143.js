@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Roj Blake and the President of the Terran Federation stand face to face. Two men with polar opposite political views, meeting for the first and last time. </p> <p>The long crusade is at an end. And Blake stands to lose everything that matters in his life.... </p>"; 

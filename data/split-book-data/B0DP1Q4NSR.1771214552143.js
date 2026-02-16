@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Anahi was an ordinary girl until she wasn't. Her mother was her mother, until she wasn't. Now she has to embrace her new life in the royal court of Mirador, a kingdom that is on the brink of war.</p>"; 

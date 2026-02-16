@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Fate made us enemies. I made us lovers.</p> <p>In a different world, we were meant for each other.</p> <p>This is not that world. </p> <p>Note: For optimal enjoyment, it’s recommended you listen to the <i>Twist Me</i> trilogy prior to starting this book.</p>"; 

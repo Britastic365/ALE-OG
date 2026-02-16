@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>She saw in him what no one else could see. </p> <p>He found in her what he could never find. </p> <p>One moment changed everything but, even with a break in time, their connection could never be severed. </p> <p>In the beginning he may have been her salvation, but in the end she will be his redemption.</p> <p><i>Contains mature themes.</i></p>"; 

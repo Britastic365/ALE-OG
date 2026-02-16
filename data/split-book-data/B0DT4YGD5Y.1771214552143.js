@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p><b>Declan Danger has always gone along to get along, keeping his twenty-year relationship afloat.</b></p> <p>But his world flips upside down when his girlfriend insists on opening their relationship. In the midst of spiraling, he encounters the alluring Mistress Elle.</p>"; 

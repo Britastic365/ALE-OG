@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Nalini Singh dives into a world torn apart by a powerful race with phenomenal powers of the mind - and none of the heart. Born a Psy, Sascha Duncan must hide the emotions that mark her as flawed. But a passionate Changeling will tempt her to reveal everything - and risk her very soul.</p>"; 

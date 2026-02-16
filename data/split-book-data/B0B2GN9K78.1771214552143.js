@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p><b>Shayna is having a run of bad luck. </b></p> <p>Abducted by aliens, frozen in a cryopod, then thawed out and tossed into a cage to be a meal for a giant sentient spider! Could things possibly get any worse?</p> <p><i>The Spider Alien's Bite </i> is a slow-burn alien/human romance intended for adult listeners.</p>"; 

@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "Im Jahre 1287 geschah in Bacharach am Rhein etwas, das nie aufhörte, die Gemüter zu bewegen. <br><br>Der Dichter Heinrich Heine erzählt diese Geschichte aus mittelalterlichen Tagen."; 

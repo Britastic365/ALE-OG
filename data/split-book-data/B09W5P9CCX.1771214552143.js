@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Sonia is running from the love that she will never find again and Mac is ready to provide everything that she needs. Can Mac finally get Sonia to give in to everything he has to offer or will Sonia deny it one and for all? Find out in <i>As We Lust: Forbidden Lust Series Book Two.</i></p>"; 

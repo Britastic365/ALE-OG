@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "It began as a witch-hunt. But the Master Inquisitor's plans to eliminate all traces of female power in the world have expanded to crushing the Sylvalan barons who oppose him-and to destroying the wellspring of magic in the Mother's Hills."; 

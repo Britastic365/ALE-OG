@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p><b>The epic conclusion of Sasha Urban's story.</b></p> <p>I found my family, I found my heart, I found myself.</p> <p>But it’s not over.</p> <p>No matter how many allies I have, there's no escaping destiny.</p> <p>The end of the world is coming, and I'm the only one who can stop it.</p>"; 

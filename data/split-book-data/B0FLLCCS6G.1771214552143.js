@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>When Jade discovers her high school sweetheart is having an affair, it seems like life can't get any worse.</p> <p></p> <p>That is, until her best friend is murdered, leaving her to figure out the truth on her own.</p> <p></p> <p>Despairing and hopeless, she finds solace in the company of a man with his own dark past. But can he be trusted?</p>"; 

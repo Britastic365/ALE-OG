@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>There’s a real trick to catching a soul-stealing Hungarian devil made of shadow and smoke. Unfortunately, Violet Parker doesn’t know what that trick is, and her aunt’s life depends on her figuring it out. But killing is an old family tradition for her...or rather a fatal tradition.</p>"; 

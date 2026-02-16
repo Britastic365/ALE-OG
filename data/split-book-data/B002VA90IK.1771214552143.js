@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "Every summer Sam spends a few precious months being human, until the cold causes him to shift to a wolf once again. Discover what happens when he meets Grace in this chilling romance."; 

@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>I am not the naive, innocent girl everyone expects me to be. Not anymore.</p> <p>Henry has ignited a fire, and I will do anything - defy everyone - to keep him in my life.</p> <p>But the question now is, does he feel the same way about me?</p> <p>Contains mature themes.</p>"; 

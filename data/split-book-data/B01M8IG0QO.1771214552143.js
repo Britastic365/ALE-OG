@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Tina has always wanted a man to dominate her and use her for his own pleasure. When her long-distance boyfriend returns home with ropes and other toys, she has the chance to live out her submission fantasies. </p> <p>Harry has ideas of his own, however, and he's clearly done this before.... </p> <p>This short BDSM romance has a happy ending! </p>"; 

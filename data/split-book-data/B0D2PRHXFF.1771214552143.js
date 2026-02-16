@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>In every game, some rules are made to be broken.</p> <p>For Lennox Black, never could he imagine that the effortlessly pretty, coy, yet mysterious new woman in town, Tia Alexander, would become his most formidable opponent to date.</p> <p>Has he met his match? Or is Tia in over her head?</p>"; 

@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p><b>Return to the hauntingly beautiful world of archangels in</b><b><i> New York Times</i></b><b> best-selling author Nalini Singh's captivating Guild Hunter series.</b></p> <p>Sinuous new secrets come to life in the wake of Archangel Lijuan's destruction. The war isn't over yet....</p> <p><b>Contains mature themes.</b></p>"; 

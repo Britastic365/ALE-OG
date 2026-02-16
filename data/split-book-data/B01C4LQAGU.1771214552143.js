@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p><i>Part of the short story collection Dark Bites, Phantom Lover is now available as a standalone audiobook!</i><br><br>Haunted by recurring nightmares of terrifying beasts, Erin McDaniels is afraid to sleep-until a hero arrives in her dreams to save her...and makes erotic, incredible love to her. But can she find him again when she is awake?</p>"; 

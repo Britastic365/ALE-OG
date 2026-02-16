@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>I race to finance it. I evade to protect it. I kill to attain it. I planned everything. Except her. The alluring, curvaceous blonde at the finish line. With sapphire eyes that cheat and lie. Whose powerful family murdered mine. I hate her. I want her. I know she’s hiding something. But so am I.</p>"; 

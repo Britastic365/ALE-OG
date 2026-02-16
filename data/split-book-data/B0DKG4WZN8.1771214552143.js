@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<b>From #1 <i>New York Times</i> bestselling author Iris Johansen comes a new thriller starring fan favorite Eve Duncan as she uncovers the source of the priceless gold in King Tutankhamen’s tomb.</b>"; 

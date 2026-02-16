@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Torn between intense emotions, fragile alliances, and buried secrets poised to upend her future, Kyra is driven to uncover the truth behind the darkness she once believed she’d left behind.</p>"; 

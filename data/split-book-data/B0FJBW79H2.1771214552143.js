@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p><b>From internet sensation and Amazon bestseller Lindsay Straube comes the second book in the sexy, biting Split or Swallow series, featuring dangerous basilisks, competitive seduction, and a love triangle that could destroy kingdoms.</b></p> <p>Contains mature themes.</p>"; 

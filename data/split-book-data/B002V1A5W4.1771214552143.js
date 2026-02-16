@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "In this sizzling Regency from <i>New York Times</i> best-selling author Stephanie Laurens, Viscount Torrington is the hottest commodity in town as London's matchmaking season begins. But the viscount only has eyes for the penniless Widow Carrington, who has recently been accused of murder."; 

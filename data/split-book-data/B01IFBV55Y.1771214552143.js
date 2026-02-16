@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>What does it mean to be human? What does it mean to be real? </p> <p>I thought we were out of danger. I thought we'd outwitted our enemies. </p> <p>I was wrong. </p> <p>As my world is torn apart, survival may not be what I expected. </p>"; 

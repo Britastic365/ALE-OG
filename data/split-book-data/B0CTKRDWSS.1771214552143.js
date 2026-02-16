@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>The exciting thriller by Rebecca Heath, author of THE SUMMER PARTY. A dark and twisty domestic thriller set in a seemingly idyllic suburban neighbourhood, where family secrets are best kept buried!</p> <p>Four Couples.</p> <p>One unforgettable dinner party.</p> <p>A secret that will destroy them.</p>"; 

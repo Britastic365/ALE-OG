@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Emanuel Goldsmith, a famous poet, murdered eight people, then disappeared. Three people want to find him: an aspiring writer, an embittered scientist who wants to use him, and a policewoman who needs to put him in custody before the Selectors, a vigilante organization, get to him first.</p>"; 

@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Behemoth Hunter, The Diabolical Dragon, King of the Raft, Isekai Isles, and Maidens of Kordon. </p> <p>These great books in one omnibus offering! If you like high fantasy, science fiction, action, adventure, and great storytelling, give this bundle a try!</p>"; 

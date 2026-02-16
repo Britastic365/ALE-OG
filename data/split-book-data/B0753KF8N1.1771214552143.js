@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p><i>Sci Fi Shorts</i> is a collection of classic science fiction stories from the golden age of space stories. This group of five unabridged short stories by various authors covers such adventures as space-going disasters, culture-shocked Martians, minds being stolen, alien flying cities and ancient artefacts being discovered in the far future. </p>"; 

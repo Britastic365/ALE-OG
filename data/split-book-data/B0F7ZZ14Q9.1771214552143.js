@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p><b>They thought fire would take everything—my home, my woman, and Elijah. That I'd be nothing but ashes. They forgot who I am.</b></p> <p>I'm King Inferno. I don't burn alone. The Inferno Gods don't just ride—we burn everything in our path.</p>"; 

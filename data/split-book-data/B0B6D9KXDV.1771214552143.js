@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p><b>There’s a darkness inside me, and it wants to be known.</b></p> <p>Sometimes there’s a cost to survival, and I’m about to discover mine.</p> <p><b>Quinn's story continues in </b><b><i>A Shifter's Heart</i></b><b>. Grab it now!</b></p>"; 

@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>After facing her nightmares head on, Keira soon finds her troubles have only just begun - and if she thought mortals were dangerous then being hunted by the world’s most powerful beings will spin her further into a web of supernatural destruction.</p>"; 

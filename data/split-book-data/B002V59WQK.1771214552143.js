@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<i>You Slay Me</i> is a lusty romance novel with amusing supernatural undercurrents. When courier Aisling Grey is dispatched to Paris to deliver a priceless dragon statue to a rich and eccentric female collector, she finds the intended recipient the apparent victim of a demonic ritual. And that's just the beginning of Aisling's discoveries."; 

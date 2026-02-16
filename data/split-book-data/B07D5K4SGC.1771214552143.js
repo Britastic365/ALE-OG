@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Pregnant with their child. Hunted for her life. Will Dareena and her mates finally break the dreaded curse? Or will they succumb to the dark forces closing in around them? </p> <p>Return to Dragonfell one last time for this final installment in the Dragon’s Gift Trilogy. Get this audiobook today!</p>"; 

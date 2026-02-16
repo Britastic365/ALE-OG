@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>After nearly dying at the hands of the Aurelian, Chrysabelle finds new determination to move beyond life as a comarré. That is until the Kubai Mata bring a new task to her doorstep: Rescue the child Tatiana has kidnapped, or Mal becomes enemy number one.</p>"; 

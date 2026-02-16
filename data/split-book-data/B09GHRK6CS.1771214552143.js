@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Beginning with a novella retelling the Silver Surfer's origin by co-creator Stan Lee and veteran writer Tom DeFalco, this exciting anthology has original, never-before-told stories featuring Marvel's most cosmic superheroes and supervillains.</p>"; 

@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p><b>He held a darkness that could never be touched. She carried a light that could never be seen.</b></p> <p>Not by anyone. Only by each other. Simply two halves of the same soul, Brantley and Saint were fused together with equal parts wrath and peace. Nothing could break through their bond. Nothing.</p> <p>Until now.</p>"; 

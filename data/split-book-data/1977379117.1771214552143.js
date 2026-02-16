@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p><i>New York Times</i> best-selling author Shayla Black and <i>USA Today</i> best-selling authors Jenna Jacob and Isabella LaPearl present Book 3 in the Doms of Her Life: Heavenly Rising series. </p> <p><b>Contains mature themes.</b></p>"; 

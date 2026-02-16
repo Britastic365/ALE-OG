@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>The freelancer continues to explore a troubled universe. Dangerous aliens await her and the crew. In search of magic, she must go where no mortal has traversed before.</p>"; 

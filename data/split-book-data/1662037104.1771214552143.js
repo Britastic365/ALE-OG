@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>The first time he saw me fall was in pain. The second was in love - with him.</p> <p>It wasn't meant to happen. But he was there for me - a bad boy I had nothing in common with.</p> <p>He was trouble. And he saved me.</p> <p>But secrets have their way of unraveling, and the truth came to light. It always does.</p>"; 

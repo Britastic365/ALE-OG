@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>His magic ruined me....</p> <p>I will return the favor.</p> <p>He is ash and fire but I am his heir. I’m everything he can’t control and I shall become his worst nightmare.</p> <p>I’m not the girl I once was.</p> <p>I am Death.</p> <p>Don't miss the epic conclusion of The Coven: Fae Magic series!</p>"; 

@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "The youngest in a long line of witches, Ari sense that things are changing-changing for the worst. For generations, her kin have tended the Old Places, keeping the land safe and fertile. But with the Summer Moon, the mood of her neighbors has soured. And Ari is no longer safe."; 

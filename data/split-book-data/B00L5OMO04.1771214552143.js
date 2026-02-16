@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<b>Enter a world equal parts <i>Dexter </i>and <i>50 Shades</i> in this first, award winning erotic thriller from A.R. Torre!</b><br><br>My life is simple, as long as I follow the rules. <br><br>1. Don't leave the apartment. 2. Never let anyone in. 3. Don't kill anyone. <br><br>I've obeyed these rules for three years. But rules were made to be broken."; 

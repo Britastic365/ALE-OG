@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p><b>To defeat the Wraith King, you must become him.</b></p> <p>I’m getting stronger, but so is the darkness within me. Will I be able to control it? Or will it control me?</p> <p>It is my destiny to find out, and all of Hell hangs in the balance. That destiny is no longer calling. It is here.</p>"; 

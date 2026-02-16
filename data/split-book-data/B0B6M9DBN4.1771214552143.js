@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p><b><i>Let the final battle begin...</i></b></p> <p><i>Demon Pack: Eternal</i> is a full-length, dark, and sexy paranormal romance, the third and final in the Demon Pack series. It’s recommended for 18+ due to language, mature themes, and sexual situations. Does <i>not </i>end on a cliff-hanger.</p>"; 

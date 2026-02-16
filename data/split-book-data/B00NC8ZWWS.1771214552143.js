@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<b>For fans of Sylvia Day and E. L. James, comes <i>New York Times</i> bestselling author Delilah Devlin's second book in her sensual erotic romance Sultry Summer Nights series.</b>"; 

@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Yielding 2 Unfulfilled Desires Vol 1 is a 3 short story, urban romance/erotica novel..3 love stories based upon Deceit, lnfidelity love, and a pursuit of fulfilling unfulfilled desires.. A book of sex, drama, and lies.</p>"; 

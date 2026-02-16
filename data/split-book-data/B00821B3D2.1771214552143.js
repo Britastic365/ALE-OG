@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>The long-awaited new novel by the award-winning, best-selling author of <i>Startide Rising</i> and <i>The Uplift War</i>- an epic novel set 50 years from tomorrow, a carefully-reasoned, scientifically faithful tale of the fate of our world. </p>"; 

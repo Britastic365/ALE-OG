@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>I'm struggling with my dark side - the demon within me - and only Samael can help. He’s decided we're dangerous for each other, but I know we need to join forces. If we can't defeat the Free Men together, I will lose myself to the demon within, and a darkness will spread across Albia.</p>"; 

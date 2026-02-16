@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Azar has taken over Fort Dallas. He rules with complete authority, and everyone bows down to him.</p> <p>Everyone except one woman. Melina, the fort's medic. No matter what he offers, she refuses to give in. A good man would know to stop asking. Unfortunately for Melina, Azar is not a good man.</p> <p>Contains mature themes.</p>"; 

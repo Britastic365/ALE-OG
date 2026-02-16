@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>The third book in the smash hit Crave series will not disappoint - full of shocking twists, high-stakes romance, and deep fantasy lore - it'll be a must-have for die-hard series fans and new audiences alike.</p>"; 

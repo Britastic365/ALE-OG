@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Mariah is in an arrangement that her heart cannot accept and Rahja is waiting for her to make the right choice. Will Rahja be left standing strong with the secret wrecks Mariah’s world, or will he fall with the rest? Find out in <i>As We Lie</i>.</p>"; 

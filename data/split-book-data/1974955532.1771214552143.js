@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>People are dying...all in the name of love. Tell me, can the Devil and his Angel survive the flames? Deception and Blood were the counterparts, but now can Sophia and Creed navigate their way through the never-ending Chaos?</p>"; 

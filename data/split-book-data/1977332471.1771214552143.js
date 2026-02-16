@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Anna needs to find her way out of the mysterious and confusing new world that she was dragged into. Her captors want to use her for their own benefit, but can Anna turn the situation around on them?</p> <p>Meanwhile, the pack is desperate to get Anna back, but that's not the only battle they are fighting.</p> <p><i>Contains mature themes.</i></p>"; 

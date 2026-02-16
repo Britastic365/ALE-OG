@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>She'd grown up down the street from him. She wants him, but he's married. When his wife is away on business, she sees her chance to make her move, and she won't take no for an answer. But what happens when his wife comes home early from her trip?</p> <p>All characters depicted in this story are of legal consenting age.</p>"; 

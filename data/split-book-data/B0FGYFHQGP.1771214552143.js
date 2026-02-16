@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>If my mother knew what I was doing, her rage would melt the entire Silver City. But I have no choice, not if I want to save the Northern Kingdom and everyone I hold dear. In this court of vipers and vultures, can I trust the man who I was sent to kill or is he using me for his own goals?</p>"; 

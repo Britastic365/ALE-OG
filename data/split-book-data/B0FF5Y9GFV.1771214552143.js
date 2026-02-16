@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>This is book one of The Vagrant Chronicle series, a dark fantasy story that follows a mercenary investigating the disappearance of children and the strange reemerge of magic.</p>"; 

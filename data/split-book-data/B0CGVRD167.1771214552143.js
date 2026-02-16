@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>The eighth book in the <i>Wall Street Journal</i> best-selling series. The enemy is closing in, and all that stands in the way of the total annihilation of Kingley's pack is Austin and Jessie. </p>"; 

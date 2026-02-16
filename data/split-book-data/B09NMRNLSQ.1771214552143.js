@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>The Baker’s Creek Brothers series is a romantic comedy saga packed with the perfect mix of angst, tears, and laughs. If you like strong heroines, alpha males, steamy romances, and witty love stories, this series is for you!</p>"; 

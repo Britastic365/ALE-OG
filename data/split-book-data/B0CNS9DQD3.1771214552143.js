@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "Wendy has been kidnapped and taken to Hook, which escalates tensions between Hook and Peter. As Wendy plans her own escape, Peter tries to figure out where she's being held and how he can rescue her without losing his friends, his allies, and Neverland itself. Contains mature themes. Trigger and content warnings are available on the author's website."; 

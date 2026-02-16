@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>After the devastating events at Zodiac Academy, we have to deal with this darker world we're faced with. Lionel seeks to hurt us, the nymphs seek to hurt the entire fae race, and between all of it, we just have to try and survive each day as it comes. I'm afraid of everything falling apart, but it looks like it already has.</p>"; 

@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Neither of them was looking for the other.</p> <p>Neither of them intended to fall in love.</p> <p>And now, neither of them wants to let go.</p> <p><b>Contains mature themes.</b></p>"; 

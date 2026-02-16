@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>A chance encounter and one night of passion leads to a mutually beneficial arrangement for two souls from different worlds. When love creeps into the equation, neither is sure how to feel or what to do. The only thing either is certain of, is their need for the other.</p> <p><b>Contains mature themes.</b></p>"; 

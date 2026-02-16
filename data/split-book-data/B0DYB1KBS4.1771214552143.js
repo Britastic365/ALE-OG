@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p><b>Scarlett</b></p> <p>My child is gone, my family torn apart.</p> <p>I know who's taken him.</p> <p>Aria.</p> <p>I will get him back no matter what it takes.</p> <p>Would I have changed anything if I had known how it was going to end?</p> <p>No.</p>"; 

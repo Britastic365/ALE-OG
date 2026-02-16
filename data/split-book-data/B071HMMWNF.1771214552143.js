@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Kate Daniels cleans up the paranormal problems no one else wants to deal with - especially if they involve Atlanta's shapeshifting community. </p> <p>And now there's a new player in town - a foe that may be too much for even Kate and Curran, the Lord of the Beasts, to handle. Because this time, Kate will be taking on family. </p>"; 

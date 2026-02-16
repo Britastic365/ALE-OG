@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Was passiert, wenn du ein Drachenwandler bist und deine Katze versucht, dich in einer Dating-App zu verkuppeln?</p> <p>Finde es heraus in diesem Prequel zur Die Prinz-der-anderen-Welten-Reihe!</p> <p><b>Please note: This audiobook is in German.</b></p>"; 

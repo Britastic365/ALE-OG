@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Their relationship changes again when Celia learns the devil takes care of his own.</p> <p>Edward Fasbender is my savior.</p> <p>From the ashes of who I once was, he is helping me to rise.</p> <p>He has a list of people who have wronged him. And now he's adding names to that list. Names that I gave him.</p> <p>And we will have our revenge.</p>"; 

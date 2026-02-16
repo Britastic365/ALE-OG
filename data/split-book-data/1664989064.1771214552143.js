@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>To the outside world, my life is perfect. </p> <p>I’m young and rich, and some may even say I’m beautiful. But I would give anything to be somebody else because after being extraordinary all my life, all I wish for is...silence.</p>"; 

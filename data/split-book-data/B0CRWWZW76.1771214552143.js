@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "3 complete classic western stories full of action and adventure, mystery, intrigue and Old West showdowns as the lawmen seek justice for the wrongs down by outlaws.<br><br>The collection includes:<br><br>Brad’s Avengement<br>Shane’s Retaliation<br>Jacob's Judgement"; 

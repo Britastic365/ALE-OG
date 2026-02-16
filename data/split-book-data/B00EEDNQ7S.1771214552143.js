@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Just as he promised, Sandra's step-dad brings Chad into the picture for some m/f/m fun! Surrounded by the two older men of her darkest fantasies, Sandra enjoys every bit of both, her step-daddy and her dad's \"best friend\". </p> <p>This is for adults only, contains dominance and m/f/m action!</p>"; 

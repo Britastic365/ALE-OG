@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>A hot firefighter who just wants to take care of her and her little boy? Sign her up. </p> <p>Moving in with him and his little girl who already has a huge chunk of her heart? Very nice. </p> <p>Roommates with benefits? Yes, please. </p> <p>Convincing this take-charge alpha to let her take care of him too? That’s not going to be as easy.</p>"; 

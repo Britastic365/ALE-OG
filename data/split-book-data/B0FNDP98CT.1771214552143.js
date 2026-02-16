@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Maria Harris was sick of the dating life til her best friend Brooke set her up with a friend of hers that was a freak in the sheets he had a preference and from the first time she was hooked.</p>"; 

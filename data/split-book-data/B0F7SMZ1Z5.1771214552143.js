@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Two newborns and a toddler under one roof, with another one on the way, can be challenging for any parent, but add an unwelcome spirit with the sketchiest of reputations, and you'll have the local mediums scrambling for a resolution before the toddler spills the tea.</p>"; 

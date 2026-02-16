@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Some warriors are born. Others are chosen by fate and forged by circumstances. In the mountains of Kurdistan, a mysterious woman fights for freedom while her own past remains locked away.</p> <p>Stay tuned as the truth about Kyra's disappearance begins to unravel.</p>"; 

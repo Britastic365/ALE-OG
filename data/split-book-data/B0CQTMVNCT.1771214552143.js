@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Harker never intended to include Alison in the kinkier side of his life, but now that she’s there he wants to show her pleasure beyond her wildest dreams.<br> <br> But when a night at La Petite Mort Club goes wrong will he be able to save their relationship or will he lose her forever?</p>"; 

@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Not only is Phobetor real, he’s about to destroy life on every world with sentient beings. You could say he’s becoming a bit of a problem. </p> <p>Unless I’m somehow the hero of an ancient prophecy - and let’s face it, I’m not - everyone I care about is in major trouble. </p> <p>My name is Bailey Spade, and this is how my story ends.</p>"; 

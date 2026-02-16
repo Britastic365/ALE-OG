@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>One year after making his home on the reviled archipelago known as Heathen's Barrow, Genghis Boy has secured himself a crew and is making a not-so-honest living. However, when his crew gets hired to take on a ruthless beast, things don't exactly go as planned. Is survival an option? Of course, it is...but is it a viable option for all involved?</p>"; 

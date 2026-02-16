@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>During the war against murderous, flesh-eating aliens, grimspace \"jumper\" Sirantha Jax decided to go it alone. The cost of her actions: the destruction of modern interstellar travel—and the lives of six hundred Conglomerate soldiers. Now she's on trial for dereliction of duty, desertion, mass murder, high treason . . . and her life.</p>"; 

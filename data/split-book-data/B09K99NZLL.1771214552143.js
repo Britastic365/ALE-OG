@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>As a rose abandoned in the desert, she's made a vow - she'll never go back to the way things were...a promise that was easier to keep before a thorn showed up. (This is not an audiobook centered around a love story).</p>"; 

@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<b>A short story from the <i>New York Times</i> bestselling authors of<i> The Unhoneymooners</i> and <i>Love and Other Words</i>. </b><br><br>This audio exclusive short tells of events from <i>Sweet Filthy Boy </i>from a new perspective."; 

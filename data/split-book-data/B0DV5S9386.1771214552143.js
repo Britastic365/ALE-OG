@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>This is Man In Uniform—a collection of heroes in uniform romances written by Kristen Proby, including <i>Chasing Wild,</i> <i>Already Gone</i>, <i>Burn With Me </i>and <i>Dance With Me.</i></p>"; 

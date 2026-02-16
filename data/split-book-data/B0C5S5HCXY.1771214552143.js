@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Abbey's thrown in at the deep end.</p> <p>Tarak creates an alliance with a furry being.</p> <p>Ami has her father wrapped around her tiny little finger.</p> <p>It's just another day in the life of our fearsome Kordolians and their human mates. A light-hearted peek into Tarak and Abbey's life on Earth.</p> <p>Contains mature themes.</p>"; 

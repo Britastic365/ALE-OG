@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Brenna, a she-wolf Psy, was abducted by a serial killer - and returned a monster. The only person who can help her is Judd, a telekinetic and Council defector. But the passion burning between them could push them both over the edge of sanity in the third installment in Singh's breathtaking Psy-Changeling series.</p>"; 

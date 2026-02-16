@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Award-winning author Katie MacAlister has published dozens of acclaimed novels. When Captain Octavia Pye discovers people not wearing proper 19th-century fashions aboard her Victorian airship, she wonders if they’re pirates. The reality is—they’re actually from an alternate universe.</p>"; 

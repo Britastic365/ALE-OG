@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>So I’m a seer. A Cognizant under the Mandate.</p> <p>Life should be easy now, right?</p> <p>Wrong.</p> <p>With all the “accidents” that keep befalling me, I’ll be lucky to survive the week. That is, if my crazy boss doesn’t work me to death first....</p>"; 

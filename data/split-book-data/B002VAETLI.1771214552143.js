@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "Stephanie Laurens' hot-blooded romances, including her <i>New York Times</i> best-selling Bar Cynster series, have earned her legions of loyal devotees. The beginning of an exciting new saga, <i>The Lady Chosen</i> introduces the distinguished war veterans of the Bastion Club, single gentlemen not entirely committed to staying that way."; 

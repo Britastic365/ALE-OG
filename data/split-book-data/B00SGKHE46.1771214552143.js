@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Kenna Starr will do anything to overcome her bad-girl past in Gena Showalter's <i>The One You Want</i>. Dane Michaelson is rich, sexy and plays hard, exactly the kind of guy she needs to avoid, but he's used to getting what he wants, and he wants her. </p> <p>Also appears in the anthology <i>All for You</i>.</p>"; 

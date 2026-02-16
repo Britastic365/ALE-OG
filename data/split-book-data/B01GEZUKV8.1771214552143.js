@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Grace and Drew are finally married and ready to begin their happily ever after. Drew's expanding his business; Grace finds out she's pregnant. Life couldn't be more perfect. </p> <p>But secrets, lies, and questions about the past get in the way. And before they know it, everything is on the line. </p>"; 

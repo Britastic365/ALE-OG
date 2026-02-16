@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>You've discovered Rebecca's secrets. You've discovered Sara's secrets. Now Sara will discover \"his\" deepest, darkest secrets... but will those secrets bind them together - or tear them apart?</p>"; 

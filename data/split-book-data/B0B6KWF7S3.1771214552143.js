@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>From internationally bestselling author K. A. Tucker comes the dark and sexy Dirty Empire series.</p> <p>Mercy Wheeler and Gabriel Easton's sordid tale continues in Dirty Empire as Mercy finds her loyalties tested and Gabriel's attempt to break free of his family's legacy comes with unexpected consequences.</p> <p>Contains mature themes.</p>"; 

@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>A girl walks into a bar. </p> <p>When Amy Shannon enters The Serpent, a seedy island bar, she immediately catches the eye of Jase Lassiter. He knows she doesn't belong in his little hole in the wall, but he will do whatever it takes to keep her there.</p>"; 

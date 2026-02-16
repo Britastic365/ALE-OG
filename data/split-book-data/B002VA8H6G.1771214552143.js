@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "A luxury ocean liner on its maiden voyage across the North Atlantic, awash in wealth and decadence...<br><br>An ancient Tibetan box, its contents unknown, sealed with a terrifying warning...<br><br>An FBI agent destined to confront what he fears most--himself..."; 

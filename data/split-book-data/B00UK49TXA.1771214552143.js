@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Get ready for more laughs, sizzle, and sleuthing in this fourth Deadwood mystery from author Ann Charles! </p> <p>One dead body, one century-old haunted opera house, one zombie musical... one pissed-off detective - will Violet \"Spooky\" Parker keep her tail out of trouble, or will she end up as one of Deadwood's walking dead?</p>"; 

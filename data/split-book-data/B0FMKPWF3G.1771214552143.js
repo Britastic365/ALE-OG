@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Fenella has finally found home in the village and Din's arms, but just as she's learning to trust in forever, duty calls them across the world. Armed with her growing psychometric abilities and backed by her newfound family, Fenella must help unravel a five-thousand-year-old mystery that could change everything.</p>"; 

@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p><i>After Worlds Collide</i> picks up the story of its predecessor, <i>When Worlds Collide</i>. This sequel tells the story of the survivors' progress on the new world Bronson Beta after the destruction of Earth by a rogue planet.</p>"; 

@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "Two brothers bound by more than blood discover a conspiracy that will change their destiny in the astonishing all-new novel of the Black Dagger Brotherhood, the \"frighteningly addictive\" (<i>Publishers Weekly</i>) series by #1 <i>New York Times</i> bestselling author J. R. Ward."; 

@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Who wants to spend their 19th birthday at a country club? Not August. On a quest to give herself a better birthday, she seeks out Eric, her dad's new friend, to rock her world. What happens instead is more than she ever thought possible. </p>"; 

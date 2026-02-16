@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>There is trouble in the universe and only one captain is keen enough to see what is happening. She must investigate strange anomalies throughout the cosmos. This mission will be the greatest challenge she has faced yet.</p>"; 

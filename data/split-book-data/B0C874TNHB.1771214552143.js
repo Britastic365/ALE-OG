@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<b>The hotly anticipated thrilling conclusion of the Lair of the Wolven series from the #1 <i>New York Times </i>bestselling author J.R. Ward.</b><br><br>In this finale, Lydia and Daniel are bracing themselves for his inevitable decline but first, they must go on a rescue mission that will put both their lives in danger."; 

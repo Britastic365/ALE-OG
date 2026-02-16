@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "Hugo Award winner Elizabeth Bear has been called one of the best science fiction authors of her generation. In <i>Dust</i> she skillfully spins a classic science fiction trope - the lost generation ship - into a complex and compelling tale of fallen angels, secretive family politics, and sexual taboo."; 

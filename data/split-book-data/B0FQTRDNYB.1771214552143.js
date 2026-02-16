@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Prophecy does not care what you do</p> <p>Elona's pyrrhic victory at the Fastness is soon overwhelmed by new troubles when she discovers the secrets of the Slissac are about to be revealed. And without Jaymis's support she's now alone in a world that doesn't understand the danger it's in. Then the Dunor attack and everything goes to pieces.</p>"; 

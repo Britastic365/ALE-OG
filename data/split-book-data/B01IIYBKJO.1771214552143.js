@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p><b>The only way to survive is to resist.</b> </p> <p>After freeing Dan and Quinn, Sandy Duncan must fight to escape the lumberyard, while protecting the others she came to save. The infected lurk outside the gates. Is the fate outside the lumberyard even worse than what she faces if she stays? </p>"; 

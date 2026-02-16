@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p><b>Discover what happens when destiny plays its hand and souls connect across lifetimes.</b></p> <p>Their fiery connection ignites memories from a past life, reckoning them to a love that cannot be denied. Brace yourself for a thrilling ride filled with passion, deceit, and the undeniable power of true love in this urban paranormal romance.</p>"; 

@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p><i>New York Times</i> and <i>USA Today</i> bestselling author Donna Grant stirs up a scorching brew of age-old secrets and modern desires in the thrilling new Skye Druid series.</p> <p>Contains mature themes.</p>"; 

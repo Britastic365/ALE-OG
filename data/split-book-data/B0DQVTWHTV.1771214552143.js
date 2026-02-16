@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Raven and Devon must find a way to get back to their realm, and to find the Simon who left them there to die. <br> Derek hasn't given up hope that he will find Raven alive, after Simon kidnapped her on her wedding day to Markus. <br> Follow Raven's journey as she learns what it takes to survive and to bring hers and Devon's realms together.</p>"; 

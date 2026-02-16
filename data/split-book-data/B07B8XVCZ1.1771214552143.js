@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Lucifer has chosen a new vessel. The Watchers are gaining strength. When the two sides collide, who will be left standing in the aftermath? Find out how it all ends in the explosive conclusion of the Apocalypse Assassins Trilogy. </p> <p>Contains mature themes.</p>"; 

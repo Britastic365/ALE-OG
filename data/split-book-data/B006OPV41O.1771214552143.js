@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>One of the most powerful icons for gay men is the hunky, rough-hewn, authoritative daddy figure, who can offer hot kisses, warm embraces, and a firm hand with equal intensity. This collection of erotic stories reveals the unique sexual and emotional bonds between these older daddies and younger gay men.</p>"; 

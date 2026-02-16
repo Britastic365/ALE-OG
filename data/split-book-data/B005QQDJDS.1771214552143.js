@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Destination: Russia. On the eve of the first manned mission to Mars, Secret Agent Jack Stalwart learns that the mission’s chief rocket engineer has disappeared. When he finds out that engineer is his father, Jack vows the kidnapper is going to live to regret it. Can Jack keep his cool to save the day?</p>"; 

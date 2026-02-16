@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>This is the fourth book in the series, but it can be listened to as a stand-alone. <i>Bare for the Alpha </i>is the first, <i>Spread for the Alpha</i> is the second, and <i>Wet for the Alpha</i> is the third.</p> <p>No cheating and a furry HEA guaranteed. Enjoy!</p>"; 

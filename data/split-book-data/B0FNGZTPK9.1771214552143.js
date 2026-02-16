@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Sophie is literally up to her eyeballs in Albins from every dimension imaginable, the town is in jeopardy of completely disappearing and Walter continues to be cagey about what he knows. Sophie must convince him to trust her in order to fix everything that's gone wrong and then finally, maybe she can go home.</p>"; 

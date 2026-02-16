@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>A race against the clock when Carolina Garcia gets sexually assaulted by a demon. She needs a way to survive her pregnancy because she's carrying: \"The Succubus Queen.\"</p>"; 

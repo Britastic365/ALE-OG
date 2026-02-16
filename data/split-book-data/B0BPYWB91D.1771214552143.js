@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p><i>Court of Death and Dreams </i>is the third book in a brand-new trilogy set in the Chosen Universe. Fans of Sarah J. Maas and Jennifer L. Armentrout will adore this sizzling and addictive high fantasy romance.</p>"; 

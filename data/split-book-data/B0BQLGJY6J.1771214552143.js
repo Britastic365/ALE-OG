@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>No one messes with my princes....</p> <p>When The Lucaya Group kidnaps Drake Battle, it’s Marcello’s job as the leader of Alpha Command to find him. But he's not the same man when he returns. Marcello has always been my hero. My knight in shining armor. Now, it’s my turn to save him.</p>"; 

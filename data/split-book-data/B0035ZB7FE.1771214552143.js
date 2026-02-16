@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Laine Tavish surrounds herself with antiques in her store. As for her own past, she’d rather avoid it. And when that doesn’t work, she has to rely on an enigmatic stranger to figure out who is chasing her and why. The answer lies in a hidden fortune that will change her life forever…</p>"; 

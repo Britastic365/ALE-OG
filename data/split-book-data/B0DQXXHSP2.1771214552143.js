@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "Can a transplant change who you are? What if the donor had some... disturbing urges? Adam's father has had a heart transplant. Now he goes missing at night, coming back dirty, with torn clothes and wounds, not remembering what he was doing. And in the meantime there are more and more young women missing in the area..."; 

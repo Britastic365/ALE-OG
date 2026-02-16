@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>The daughter of a warrior king, Lara was trained as a healer, helping both friend and foe. And when the enemy warlord agrees to cease hostilities in exchange for Lara, she agrees to become the Warprize.</p>"; 

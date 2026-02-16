@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Going to Level 2 gives me unimaginable power. So naturally, now that everyone I care about is in trouble, I can't do it anymore. The Elders can, but will they teach me, and if so, at what price?Ultimately, it comes down to a choice. What am I willing to sacrifice for those I love? </p>"; 

@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p><i>New York Times</i> best seller Pepper Winters brings a new dark romance series to life. </p> <p>This is the third book in Goddess Isles. </p> <p>There was hate once. Hate born from dangerous attraction and fate’s cruel design. </p> <p>There was love once. Love destined to kill us if we didn’t surrender to our war.</p>"; 

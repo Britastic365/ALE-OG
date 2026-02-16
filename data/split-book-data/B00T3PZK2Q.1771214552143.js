@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Unwilling to force her live-in love Case McCord into a proposal of marriage, a pregnant Pru Kenyon decides to walk away from the man she loves, not telling him that she is expecting his baby. But she never bargained for how much Case is willing to do for love.</p>"; 

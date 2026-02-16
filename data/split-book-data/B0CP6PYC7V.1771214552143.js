@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p><b>Hunter Driesse and Eric Kane aren’t my type.</b>They’re too dominant. Too demanding.</p> <p><b><i>Too sinfully tempting.</i></b></p> <p>They are not the men I want.</p> <p><b>Until the night of the dare.</b></p> <p>When I discover that Hunter and Eric are—<b><i>shockingly</i></b>—the men I need.</p>"; 

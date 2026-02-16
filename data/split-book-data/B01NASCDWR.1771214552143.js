@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>The story features the adventures of two intrepid crusaders against the forces of dread Cthulhu, Titus Crow and Henri de Marigny, as they continue their epic battle against the powers of an evil so ancient that its sinister roots stretch back to a time long before human history began. </p>"; 

@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Lovely, guileless Rowan Murray was drawn to darkly enigmatic Liam Donovan with a force she'd never imagined could exist. But before Liam could give Rowan his love, he first had to trust her with the incredible truth about himself…and his family.</p>"; 

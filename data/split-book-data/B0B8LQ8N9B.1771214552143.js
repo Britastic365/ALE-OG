@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Return to the dark and mesmerizing world of archangels in <i>New York Times</i> bestselling author Nalini Singh's Guild Hunter series.</p> <p>Contains mature themes.</p>"; 

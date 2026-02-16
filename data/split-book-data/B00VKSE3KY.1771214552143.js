@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Risa Chandler's prescient dreams of death and murder haunted her nights. They also proved invaluable for Adam Raiker's brilliant team of forensic criminologists, the Mindhunters, until a tragic end to one case shattered Risa's confidence and drove her into seclusion. But for Risa, there's no hiding from death - or from her dreams.</p>"; 

@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Struggling to find her place in a pack where she once answered only to the alpha, Bridget sets out on her own. But when she encounters a creature she thought had disappeared from the world long ago, she must confront the shocking reality that one of the ancient dragons has awoken.</p>"; 

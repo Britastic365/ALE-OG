@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "A mutiny on the moon places Sgt. Ethan Stark in command of the U.S. military forces there - and turns a dream for independence into a reality. <p><b>BONUS AUDIO: Includes an exclusive introduction written and read by author Jack Campbell.</b></p> <p><i>Stark's Command</i> was originally published as \"by John G. Hemry\".</p>"; 

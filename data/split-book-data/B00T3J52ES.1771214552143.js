@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Adrift in a storm, Professor Max Quartermain thought he must have hallucinated the beautiful mermaid who came to his rescue. But Lilah was no mystical creature--she was a woman of flesh and blood, and undeniably attracted to the intense and mysterious stranger.... </p>"; 

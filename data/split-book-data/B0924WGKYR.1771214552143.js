@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>An epic tale of both betrayal and all-consuming love.... <br> Marcus, the villain. <br> Cody Walsh, the FBI agent who knows too much. <br> And Delilah, the lawyer caught in between. </p> <p>This is the third and final book in the This Love Hurts trilogy.</p>"; 

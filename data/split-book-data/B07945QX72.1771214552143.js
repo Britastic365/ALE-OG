@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>To touch a Dark One is death. To talk to an immortal is suicide. Yet, I've been marked by both. </p> <p>A Vampire. And the King of the immortals. My life is no longer my own. And now I know the truth, my life was never mine to begin with. It was theirs. </p> <p>It's always been theirs. </p> <p>Contains mature themes.</p>"; 

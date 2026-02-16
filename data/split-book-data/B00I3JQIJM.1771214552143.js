@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>How does the stranger know Cadie’s real name – and why she’s on the run – and what it all has to do with the Ukrainian mob? He’s offering her freedom from possessions and a totally new way of life. But he wants just this one little favor…</p> <p>This story was originally published in the Hugo Award-nominated <i>METAtropolis.</i></p>"; 

@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Danger inspires fierce passion when a new threat targets Chicago's Ferraro crime family in this novel in Christine Feehan's<i> New York Times</i> best-selling series. The next book in the Shadow Riders series.</p>"; 
