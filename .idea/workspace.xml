@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5f34fc9a-ef76-4e36-be15-e1096cdc11c9" name="Changes" comment="2/15/2026 untouched gallery1">
-      <change beforePath="$PROJECT_DIR$/data/wishlist.1771214552143.js" beforeDir="false" afterPath="$PROJECT_DIR$/data/wishlist.1771214552143.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/gallery-search.CtMt2Wex.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/gallery-search.CtMt2Wex.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +16,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="Combine-Lists" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -47,7 +48,7 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "git-widget-placeholder": "Combine-Lists",
+    "git-widget-placeholder": "Search-Summaries",
     "ignore.virus.scanning.warn.message": "true",
     "javascript.preferred.runtime.type.id": "node",
     "node.js.detected.package.eslint": "true",
@@ -74,7 +75,7 @@
       <option name="presentableId" value="Default" />
       <updated>1771214685877</updated>
       <workItem from="1771214687701" duration="2444000" />
-      <workItem from="1771217781673" duration="1659000" />
+      <workItem from="1771217781673" duration="3214000" />
     </task>
     <task id="LOCAL-00001" summary="initial upload">
       <option name="closed" value="true" />
@@ -100,7 +101,15 @@
       <option name="project" value="LOCAL" />
       <updated>1771220572987</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="2/15/2026 untouched gallery1">
+      <option name="closed" value="true" />
+      <created>1771220873386</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1771220873386</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
